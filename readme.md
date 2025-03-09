@@ -1,3 +1,14 @@
+## Changes
+- Changed colour of all payloads to black.
+- Wind increases by 9.99 instead of 15.0
+- Wind speed (mostly) renamed to wind resistance
+- Added payload "apple"
+- Added additional aircraft
+- Fatter man
+## Incoming changes
+- Missiles
+## Would appreciate feedback, also pointers on how to use github
+
 # Note
 
 ## Beskrivning
