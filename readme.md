@@ -5,11 +5,6 @@
 - Added payload "apple"
 - Added additional aircraft
 - Fatter man
-## Incoming changes
-- Missiles
-## Would appreciate feedback, also pointers on how to use github
-
-# Note
 
 ## Beskrivning
  Ett litet projekt som installerar Raylib och bygger en **Bombardment Simulator** där spelaren kan släppa olika typer av laster från ett flygplan. Programmet körs på macOS + linux och byggs med CMake.
